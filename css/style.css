@@ -1,0 +1,24 @@
+h2{
+    color: rgba(41, 1, 1, 0.815);
+    text-align: center;
+    background-color: burlywood;
+    text-shadow: 10px 10px 8px
+}
+
+h2:hover{
+
+background-color: rgba(66, 3, 3, 0.879);
+color: white
+
+}
+
+p{
+    font-weight: bolder;
+    font-style: italic;
+
+}
+
+img{
+    width: 300px;
+
+}

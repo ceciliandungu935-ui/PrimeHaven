@@ -1,0 +1,31 @@
+form{
+background-color: pink;
+width: 50%;
+margin: 0 auto;
+padding: 20px;
+border-radius: 20px;
+box-shadow: 0 0 12px maroon;
+
+}
+
+
+legend{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input[type=text] , input[type=id] , input[type=email] , input[type=number] , input[type=password] , input[type=date] , input[type=datetime-local] select
+{
+  width: 100%;
+  height: 30px;
+  border-radius: 20px;
+  border: none;
+  padding-left: 10px;
+}
+ body{
+    background-image: url("../CATALOGUE/backgroundimage.avif");
+       background-repeat: no-repeat;
+       background-size: cover;
+ }
+
+  
